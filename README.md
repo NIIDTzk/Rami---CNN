@@ -1,6 +1,7 @@
 Rami CNN
 ==============================
 
+Bachelor degree project
 CNN can get the same accuracy (or higher) with much less data when trained using stacked convolutional autoencoders on patches of the dataset.
 
 Project Organization
